@@ -43,8 +43,6 @@ They can be easily changed for experiment requirement.
 # Requirement
 All the packages required are listed in pom.xml
 
-# Contact
-jiaxianyan@gmail.com
 
  
  
